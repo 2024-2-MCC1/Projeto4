@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - START
+  - QUIT
+  - CONFIG
+  - Interactable
+  - Sala_Luz
+  - Quarto2_Luz
+  - Quarto1_Luz
+  - Cozinha_Luz
+  - Banheiro_Luz
+  - Mirror
+  - Sofa
+  - Television
+  - Chair
+  - Refrigerator
+  - Kitchen_SInk
+  - Stove
+  - Laptop
+  - Bed_Kid
+  - Bathroom_Sink
+  - Toilet
+  - mae
+  - pai
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PLAYER
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
