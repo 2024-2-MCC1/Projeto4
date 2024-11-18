@@ -80,12 +80,18 @@ A gameplay é dividida em três partes:
 ## 🗂 Estrutura de Pastas
 
 ```
-/Assets       - Recursos e scripts do projeto Unity
-/Scenes       - Cenas do jogo
-/Prefabs      - Objetos reutilizáveis
-/Scripts      - Código-fonte do jogo
-/Textures     - Texturas e imagens utilizadas no jogo
-/Animations   - Animações criadas para o projeto
+/Assets                    - Pacote Principal de vários arquivos do jogo
+/Ciconia Studio            - Recursos de parceiros
+/Materials                 - Materiais do jogo
+/modelos                   - Modelos 3D utilizados
+/other assets              - Outros recursos diversos
+/packages                  - Pacotes importados para o Unity
+/QuickOutline              - Pacote para efeitos de outline nos objetos
+/Scenes                    - Cenas do jogo
+/scripts                   - Código-fonte do jogo
+/Stylize Water Texture     - Texturas estilizadas de água
+/TextMesh Pro              - Gerenciamento de texto avançado
+/texturas                  - Imagens de texturas utilizadas no jogo
 ```
 
 ---
