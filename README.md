@@ -56,12 +56,12 @@ A gameplay é dividida em três partes:
 <table align="center">
   <tr>
     <td align="center">
-      <img src="../Projeto4/Assets/other assets/Girl_Game_Design_Black_and_White.png" alt="Girl Game Design" border="0" width="300">
+      <img src="../Projeto4/Assets/other_assets/Girl_Game_Design_Black_and_White.png" alt="Girl Game Design" border="0" width="300">
       <br>
       Design by <a href="https://github.com/Vinishireis">Vinícius Nishimura</a>
     </td>
     <td align="center">
-      <img src="../Projeto4/Assets/other assets/Boy_Game_Design.png" alt="Boy Game Design" border="0" width="380">
+      <img src="../Projeto4/Assets/other_assets/Boy_Game_Design.png" alt="Boy Game Design" border="0" width="380">
       <br>
       Design by <a href="https://github.com/Vinishireis">Vinícius Nishimura</a>
     </td>
@@ -73,7 +73,7 @@ A gameplay é dividida em três partes:
 ## 🎥 Trailer do Jogo
 
 <video width="800" controls>
-  <source src="../Projeto4/Assets/other assets/Through_Their_Eyes_Trailer.mp4" type="video/mp4">
+  <source src="../Projeto4/Assets/other_assets/Through_Their_Eyes_Trailer.mp4" type="video/mp4">
 </video>
 
 
