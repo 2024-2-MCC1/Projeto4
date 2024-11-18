@@ -72,9 +72,10 @@ A gameplay é dividida em três partes:
 
 ## 🎥 Trailer do Jogo
 
-<video width="800" controls>
-  <source src="Assets/other_assets/Through_Their_Eyes_Trailer.mp4" type="video/mp4">
-</video>
+<p align="center">
+  <img src="https://github.com/2024-2-MCC1/Projeto4/blob/879b9e6c1bcde0720a339d80198beb63430b556f/Through_Their_Eyes_Trailer.gif" alt="Trailer do Jogo - Through Their Eyes">
+</p>
+
 
 
 ## 🗂 Estrutura de Pastas
