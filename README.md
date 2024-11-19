@@ -109,7 +109,7 @@ A gameplay é dividida em três partes:
    - Clique em **Open Project** e selecione a pasta onde o projeto foi baixado.
 
 3. **Configure a cena inicial:**
-   - Vá para a pasta `/Scenes` e abra a cena principal (`MainScene.unity`).
+   - Vá para a pasta `/Scenes` e abra a cena principal (`menu.unity`).
 
 4. **Execute o jogo:**
    - Pressione o botão **Play** no editor do Unity.
